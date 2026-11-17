@@ -80,3 +80,7 @@ Imagens com RLE por linha (sequências de 3 ou mais pixels iguais são codificad
 ## Aviso
 
 Projeto independente, sem vínculo com os fabricantes do dispositivo, do chip ou do aplicativo. Os scripts de escrita alteram a memória do relógio; use por sua conta e risco.
+
+## Licença
+
+[MIT](LICENSE)
